@@ -1,6 +1,6 @@
 {
   "name": "zone.js",
-  "version": "0.6.21",
+  "version": "0.6.25",
   "description": "Zones for JavaScript",
   "main": "dist/zone-node.js",
   "browser": "dist/zone.js",
@@ -53,7 +53,6 @@
     "karma-safari-launcher": "^0.1.1",
     "karma-sauce-launcher": "^0.2.10",
     "karma-sourcemap-loader": "^0.3.6",
-    "karma-webpack": "^1.7.0",
     "nodejs-websocket": "^1.2.0",
     "pump": "^1.0.1",
     "systemjs": "^0.19.37",
